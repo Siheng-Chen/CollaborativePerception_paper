@@ -11,7 +11,7 @@ Perception with Vehicle-to-Vehicle Communication.** [paper](https://arxiv.org/pd
 
 ## Collaboration framework
 1. \[ICRA 2020\] **Who2com: Collaborative Perception via Learnable Handshake Communication.** [paper](https://arxiv.org/abs/2003.09575)
-2. \[ICRA 2020\] **When2com: Multi-Agent Perception via Communication Graph Grouping.** [paper](https://arxiv.org/abs/2006.00176)
+2. \[CVPR 2020\] **When2com: Multi-Agent Perception via Communication Graph Grouping.** [paper](https://arxiv.org/abs/2006.00176)
 3. \[ECCV 2020\] **V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction.** [paper](https://arxiv.org/abs/2008.07519)
 4. \[MobiCom 2021\] **EMP: Edge-assisted Multi-vehicle Perception.** [paper](https://xiaoshawnzhu.github.io/emp-mobicom21.pdf)
 5. \[NeurIPS 2021\] **Learning distilled collaboration graph for multi-agent perception.** [paper](https://proceedings.neurips.cc/paper/2021/file/f702defbc67edb455949f46babab0c18-Paper.pdf)
