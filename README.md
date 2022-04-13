@@ -1,4 +1,4 @@
-# Awesome-of-Collaborative-Perception-Papers
+# Awesome-Collaborative-Perception-Papers
 collaborative perception, v2x-communication aided autonomous driving
 
 ## Dataset
