@@ -25,3 +25,5 @@ Perception with Vehicle-to-Vehicle Communication.** [[paper]](https://arxiv.org/
 3. \[RAL 2022\] **Keypoints-Based Deep Feature Fusion for Cooperative Vehicle Detection of Autonomous Driving.** [[paper]](https://arxiv.org/abs/2109.11615) [[code]](https://github.com/YuanYunshuang/FPV_RCNN.git)
 4. \[ECCV 2022\] **V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer.** [[paper]](https://arxiv.org/abs/2203.10638) [[code]](https://github.com/DerrickXuNu/v2x-vit)
 
+## Robustness to communication constraints
+1. \[ECCV 2022\] **Latency-Aware Collaborative Perception.** [[paper]](https://arxiv.org/pdf/2207.08560.pdf)
